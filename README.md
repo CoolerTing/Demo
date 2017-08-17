@@ -2,7 +2,7 @@
 ***DotaMax Demo***
 ==============
 ![Aragaki](https://github.com/CoolerTing/Demo/blob/master/aragaki.png)</br>
-# 该demo为我仿写的dotamax，只包含一部分功能</br>
+# 该demo为我仿写的dotamax，包含一部分功能</br>
 ## 功能
 * 其中获取的战绩数据均为真实数据，通过Steam Dota2 Api调用
 * 主界面dota2用户ID的最近8场的战绩（ID被我写死，暂未添加通过输入ID来查询）
@@ -30,7 +30,7 @@
 * 抽屉效果加背景毛玻璃</br>
 ![IMG_1519](https://github.com/CoolerTing/Demo/blob/master/IMG_1519.PNG)</br>
 ## 不足
-* 由于API是通过Steam获取的，所以接口较多，要重复调用接口获取数据，所以完成载入通常要几秒钟
+* 由于API是通过Steam获取的，所以接口较多，要重复调用接口才能获取完整数据，所以完成载入通常要几秒钟
 * 很多功能未完善
 * 视频不能播放优酷等视频网站的视频
 * 一些细节问题
