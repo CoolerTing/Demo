@@ -16,17 +16,17 @@
 * 适配各种屏幕的Iphone
 * 里面的图片都是采用网络资源并添加了缓存，可以清除图片缓存
 ## 截图
-* 战绩场次
+* 战绩场次</br>
 ![IMG_1514](https://github.com/CoolerTing/Demo/blob/master/IMG_1514.PNG)</br>
-* 战绩详情
+* 战绩详情</br>
 ![IMG_1515](https://github.com/CoolerTing/Demo/blob/master/IMG_1515.PNG)</br>
-* 展开后的战绩详情
+* 展开后的战绩详情</br>
 ![IMG_1516](https://github.com/CoolerTing/Demo/blob/master/IMG_1516.PNG)</br>
-* 视频列表
+* 视频列表</br>
 ![IMG_1517](https://github.com/CoolerTing/Demo/blob/master/IMG_1517.PNG)</br>
-* 视频播放界面
+* 视频播放界面</br>
 ![IMG_1518](https://github.com/CoolerTing/Demo/blob/master/IMG_1518.PNG)</br>
-* 抽屉效果加背景毛玻璃
+* 抽屉效果加背景毛玻璃</br>
 ![IMG_1519](https://github.com/CoolerTing/Demo/blob/master/IMG_1519.PNG)</br>
 ## 不足
 * 由于API是通过Steam获取的，所以接口较多，要重复调用接口获取数据，所以完成载入通常要几秒钟
