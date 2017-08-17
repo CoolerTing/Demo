@@ -4,6 +4,7 @@
 ![Aragaki](https://github.com/CoolerTing/Demo/blob/master/aragaki.png)</br>
 # 该demo为我仿写的dotamax，只包含一部分功能</br>
 ## 功能
+* 其中获取的战绩数据均为真实数据，通过Steam Dota2 Api调用
 * 主界面dota2用户ID的最近8场的战绩（ID被我写死，暂未添加通过输入ID来查询）
 * 点击任意一场可跳转到该场次详细战绩页面
 * 实现了点击用户头像的抽屉效果和背景毛玻璃效果
